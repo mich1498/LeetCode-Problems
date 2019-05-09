@@ -5,4 +5,4 @@ Most of the code is written in c++, but occassionally i write in python too.
 I also plan on learning swift sometiem this year and will resolve all these problems in swift :D 
 
 Btw this is still work in progress ,, i am yet to transfer my code from leetcode to this repository. 
-A quick link to my leetcode profile can be found [here](https://leetcode.com/mike1498/)
+A quick link to my leetcode profile can be found [here](https://leetcode.com/mike1498/), it's kinda embarrassing now so please done check it :(
